@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="center">Center</string>
+    <string name="tab1">Tab1</string>
+    <string name="tab2">Tab2</string>
+    <string name="tab3">Tab3</string>
+    <string name="user">User</string>
+    <string name="notify">notification</string>
+</resources>
